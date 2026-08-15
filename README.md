@@ -9,7 +9,4 @@ Python | Java | TypeScript | React | Spring Boot | SQL | Docker
 ### Projects
 - [Sudoku CSP Solver](https://github.com/amdiaz04/sudoku-csp-solver) - Full-stack app for solving and benchmarking Sudoku puzzles using different AI search techniques.
 
----
 
-### Links
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/ameliediaz)
