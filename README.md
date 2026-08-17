@@ -1,6 +1,6 @@
 ## Hey, I'm Amelie
 
-CS graduate from Royal Holloway. Interested in software engineering, machine learning, and fintech.
+CS graduate from Royal Holloway. Interested in software engineering and machine learning.
 
 Python | Java | TypeScript | React | Spring Boot | SQL | Docker
 
